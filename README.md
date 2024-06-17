@@ -3,9 +3,13 @@ Welcome to the Path Finder project! This is a React application developed to fin
 
 # Features
 Grid Visualization: Display a grid where users can select a start node, end node, and draw obstacles.
+
 Dijkstra's Algorithm: Implement Dijkstra's algorithm to find the shortest path from the start node to the end node.
+
 Obstacle Avoidance: Allow users to place obstacles on the grid that the algorithm will avoid while finding the shortest path.
+
 Visualization: Visualize the algorithm's process step-by-step to understand how the shortest path is determined.
+
 Technologies Used
 React: JavaScript library for building user interfaces
 Dijkstra's Algorithm: Used to find the shortest path on the grid
